@@ -1,0 +1,16 @@
+{syslog_info,{2020,3,18},
+             {23,8,3},
+             na,na,pod_master@asus,master_service,194,info,
+             ["ok Stopped Service ","adder_service","localhost",40200]}.
+{syslog_info,{2020,3,18},
+             {23,8,3},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","adder_service","localhost",40200]}.
+{syslog_info,{2020,3,18},
+             {23,8,0},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","adder_service","localhost",50100]}.
+{syslog_info,{2020,3,18},
+             {23,7,56},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","divi_service","localhost",50100]}.

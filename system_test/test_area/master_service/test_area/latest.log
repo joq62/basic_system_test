@@ -1,0 +1,46 @@
+{syslog_info,{2020,3,18},
+             {22,50,26},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","divi_service","localhost",40100]}.
+{syslog_info,{2020,3,18},
+             {22,50,14},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","divi_service","localhost",50100]}.
+{syslog_info,{2020,3,18},
+             {22,50,12},
+             na,na,pod_master@asus,master_service,194,info,
+             ["ok Stopped Service ","divi_service","localhost",50100]}.
+{syslog_info,{2020,3,18},
+             {22,50,10},
+             na,na,pod_master@asus,master_service,181,info,
+             ["Error Started Service ","adder_service","localhost",40200,
+              {{error,[{error,[service_already_loaded,pod_lgh_2@asus,
+                               "pod_lgh_2","adder_service",container,104]}]},
+               "adder_service","localhost",40200}]}.
+{syslog_info,{2020,3,18},
+             {22,50,8},
+             na,na,pod_master@asus,master_service,181,info,
+             ["Error Started Service ","adder_service","localhost",50100,
+              {{error,[{error,[service_already_loaded,pod_landet_1@asus,
+                               "pod_landet_1","adder_service",container,
+                               104]}]},
+               "adder_service","localhost",50100}]}.
+{syslog_info,{2020,3,18},
+             {22,50,6},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","adder_service","localhost",40200]}.
+{syslog_info,{2020,3,18},
+             {22,50,3},
+             na,na,pod_master@asus,master_service,181,info,
+             ["Error Started Service ","divi_service","localhost",50100,
+              {{error,[{error,[service_already_loaded,pod_landet_1@asus,
+                               "pod_landet_1","divi_service",container,104]}]},
+               "divi_service","localhost",50100}]}.
+{syslog_info,{2020,3,18},
+             {22,50,1},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","adder_service","localhost",50100]}.
+{syslog_info,{2020,3,18},
+             {22,49,59},
+             na,na,pod_master@asus,master_service,178,info,
+             ["ok Started ","divi_service","localhost",50100]}.

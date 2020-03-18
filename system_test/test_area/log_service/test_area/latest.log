@@ -1,0 +1,4 @@
+{syslog_info,d1,t1,na,na,node,m4,l4,info,["test 4",glurk]}.
+{syslog_info,d1,t1,na,na,node,m3,l3,info,["test 3",glurk]}.
+{syslog_info,d1,t1,na,na,node,m2,l2,warning,["test 2",glurk]}.
+{syslog_info,d1,t1,na,na,node,m1,l1,error,["test 1",glurk]}.

@@ -1,0 +1,5 @@
+{{service,"adder_service"},{git,"https://github.com/joq62/basic.git"}}.
+{{service,"divi_service"},{git,"https://github.com/joq62/basic.git"}}.
+{{service,"dns_service"},{git,"https://github.com/joq62/basic.git"}}.
+{{service,"log_service"},{git,"https://github.com/joq62/basic.git"}}.
+{{service,"lib_service"},{git,"https://github.com/joq62/basic.git"}}.

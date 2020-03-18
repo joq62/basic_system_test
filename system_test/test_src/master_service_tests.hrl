@@ -1,0 +1,1 @@
+-define(ETS,system_ets).
