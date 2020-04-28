@@ -1,0 +1,18 @@
+{syslog_info,{2020,4,28},
+             {23,35,42},
+             na,na,pod_master@asus,service_handler,55,info,
+             ["ok Started ","adder_service","localhost",40200]}.
+{syslog_info,{2020,4,28},
+             {23,35,39},
+             na,na,pod_master@asus,service_handler,55,info,
+             ["ok Started ","adder_service","localhost",50100]}.
+{syslog_info,{2020,4,28},
+             {23,35,37},
+             na,na,pod_master@asus,lib_master,92,info,
+             ["Missing services",
+              [{"adder_service","localhost",50100},
+               {"adder_service","localhost",40200}]]}.
+{syslog_info,{2020,4,28},
+             {23,35,37},
+             na,na,pod_master@asus,master_service,94,info,
+             ["master_service started"]}.

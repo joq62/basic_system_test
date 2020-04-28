@@ -1,0 +1,2 @@
+-define(ETS,system_ets).
+-define(SOURCE,"/home/pi/erlang/basic").

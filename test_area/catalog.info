@@ -1,0 +1,5 @@
+{{service,"adder_service"},{dir,"/home/pi/erlang/basic"}}.
+{{service,"divi_service"},{dir,"/home/pi/erlang/basic"}}.
+{{service,"dns_service"},{dir,"/home/pi/erlang/basic"}}.
+{{service,"log_service"},{dir,"/home/pi/erlang/basic"}}.
+{{service,"lib_service"},{dir,"/home/pi/erlang/basic"}}.
